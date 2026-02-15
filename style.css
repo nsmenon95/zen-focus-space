@@ -1,0 +1,9 @@
+/* 
+   Most styles are handled by Tailwind CSS in index.html.
+   Keeping this file for any custom overrides if strictly necessary.
+*/
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
